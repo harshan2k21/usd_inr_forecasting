@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # USD-INR Exchange Rate Forecasting
 
 ## 📊 Overview
@@ -125,3 +126,6 @@ jupyter notebook notebooks/USD_to_INR_Analysis.ipynb
 ## ⭐ Acknowledgment
 
 This project demonstrates practical implementation of time series forecasting using real-world financial data.
+=======
+# usd_inr_forecasting
+>>>>>>> d2183625d4984554fd20d7da7bb394489bb050d1
